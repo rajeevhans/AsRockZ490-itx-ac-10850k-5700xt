@@ -1,0 +1,1 @@
+# AsRockZ490-itx-ac-10850k-5700xt
