@@ -34,5 +34,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * Additional case fans
 
 ## Thanks and Credits to:
+https://dortania.github.io/OpenCore-Install-Guide/
+
 
 
