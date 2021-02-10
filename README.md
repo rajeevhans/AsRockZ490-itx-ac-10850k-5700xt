@@ -17,6 +17,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on Open
 ## Images
 
 ![About my Mac](Images/AboutMyMac.png)
+![Standard case shot](Images/SM570case.JPG)
 
 
 ## What Works
