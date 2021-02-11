@@ -10,7 +10,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * RAM: [Crucial Ballistix 3200 MHz DDR4 DRAM Desktop Gaming Memory Kit 64GB CL 16](https://www.amazon.com/Crucial-Ballistix-Desktop-Gaming-BL2K32G32C16U4R/dp/B083TSJ8N4)
 * Case: [SM570	Mini-ITX PC Case](https://www.sliger.com/products/cases/sm570/)
 * SSD: [Sabrent 2TB Rocket NVMe 4.0 Gen4 PCIe M.2 Internal SSD](https://www.amazon.com/Sabrent-Internal-Extreme-Performance-SB-ROCKET-NVMe4-2TB/dp/B07TN1MNJ4)
-* WiFI: [BroadCom BCM94360CS2] (https://amzn.to/30YB6bd) with [NGFF adapter](https://amzn.to/2YR2u8f)
+* WiFI: [BroadCom BCM94360CS2](https://amzn.to/30YB6bd) with [NGFF adapter](https://amzn.to/2YR2u8f)
 
 
 
