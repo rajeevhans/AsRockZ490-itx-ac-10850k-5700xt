@@ -19,8 +19,14 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 ![About my Mac](Images/AboutMyMac.png)
 ![Standard case shot](Images/SM570case.JPG)
 ![USB Port mapping](Images/AsRockZ490USBports.png)
+
+## Before any cable management
 ![Case1](Images/Case1.jpeg)
 ![Case2](Images/Case2.jpeg)
+
+## After cable management
+![Case1](Images/CaseCableManaged1.jpeg)
+![Case2](Images/CaseCableManaged2.jpeg)
 
 
 
@@ -34,6 +40,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 
 
 ## What doesn't work
+* Unlock with Apple watch
 * Cable management
 * Additional case fans
 
