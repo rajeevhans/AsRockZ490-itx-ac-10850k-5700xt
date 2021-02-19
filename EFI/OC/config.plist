@@ -1322,7 +1322,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02125700GUJG368C</string>
+			<string>__GENERATE MLB__</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1334,15 +1334,16 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02FWSYHHX87</string>
+			<string>__GENERATE SERIAL__</string>
 			<key>SystemUUID</key>
-			<string>A44C41B7-F744-41C7-A9DB-A13253962F0D</string>
+			<string>__GENERATE UUID__</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
 		<key>UpdateNVRAM</key>
 		<true/>
-		<key>UpdateSMBIOS</key>
+		<key>Update
+		</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
 		<string>Create</string>
