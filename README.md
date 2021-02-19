@@ -45,6 +45,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * Cable management
 * Additional case fans
 * Finding Noctua NF-A12x25 PWM fans at a decent price
+* Controlling EK LED, goes dark after sleep, turning off in BIOS doesn't work either
 
 ## Thanks and Credits to:
 https://dortania.github.io/OpenCore-Install-Guide/
