@@ -35,15 +35,15 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * iMessage
 * WiFi/Bluetooth
 * Sleep/Wake
-* AirDrop/Continuity/Unlock with Apple watch
+* AirDrop/Continuity
 * Shutdown etc.
-* Audio 
+* Audio with Layout id 1
 
 
 ## What doesn't work
 * Unlock with Apple watch
-* Cable management
-* Additional case fans
+* Display settings wonky after a sleep with 2 4k monitors. 
+* Cable management is tricky in this case without customer PSU cables
 * Finding Noctua NF-A12x25 PWM fans at a decent price
 * Controlling EK LED, goes dark after sleep, turning off in BIOS doesn't work either
 
