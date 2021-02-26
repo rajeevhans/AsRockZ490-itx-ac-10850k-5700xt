@@ -35,9 +35,9 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * iMessage
 * WiFi/Bluetooth
 * Sleep/Wake
-* AirDrop/Continuity/Unlock with Apple watch
+* AirDrop/Continuity
 * Shutdown etc.
-* Audio 
+* Audio with Layout id 1
 
 ## What somewhat works
 * Unlock with Apple watch - After many things it does work once in a while. Auth with watch works reliably
