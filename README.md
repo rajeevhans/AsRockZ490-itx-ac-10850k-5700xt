@@ -39,11 +39,11 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * Shutdown etc.
 * Audio 
 
+## What somewhat works
+* Unlock with Apple watch - After many things it does work once in a while. Auth with watch works reliably
+
 
 ## What doesn't work
-* Unlock with Apple watch
-* Cable management
-* Additional case fans
 * Finding Noctua NF-A12x25 PWM fans at a decent price
 * Controlling EK LED, goes dark after sleep, turning off in BIOS doesn't work either
 
