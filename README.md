@@ -12,6 +12,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * SSD: [Sabrent 2TB Rocket NVMe 4.0 Gen4 PCIe M.2 Internal SSD](https://www.amazon.com/Sabrent-Internal-Extreme-Performance-SB-ROCKET-NVMe4-2TB/dp/B07TN1MNJ4)
 * WiFI: [BroadCom BCM94360CS2](https://amzn.to/30YB6bd) with [NGFF adapter](https://amzn.to/2YR2u8f)
 * Fans: [4x Noctua NF-F12 PWM fans](https://www.amazon.com/dp/B00650P2ZC)
+* PSU: [Corsair SF600](https://www.amazon.com/CORSAIR-SF600-Modular-Supply-Certified/dp/B01CGI5M24)
 
 
 
