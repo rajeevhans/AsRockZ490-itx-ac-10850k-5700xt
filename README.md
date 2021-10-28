@@ -1,5 +1,5 @@
 
-Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Open Core 0.6.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.6)
+Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Open Core 0.7.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.4)
 
 ## Hardware config
 
@@ -50,9 +50,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 * AirDrop/Continuity
 * Shutdown etc.
 * Audio with Layout id 1
-
-## What somewhat works
-* Unlock with Apple watch - After many things it does work once in a while. Auth with watch works reliably
+* Unlock with Apple Watch
 
 
 ## What doesn't work
