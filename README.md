@@ -33,15 +33,16 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K AMD Radeon 6900XT  based on [Open Co
 ### Virtual SMS with iStat
 ![Virtual SMC and iStat Menus finally showing Fans](Images/VirtualSMCistatMenus.png)
 
-## Before any cable management
+### Before any cable management
 ![Case1](Images/Case1.jpeg)
 ![Case2](Images/Case2.jpeg)
 
-## After cable management
+### After cable management
 ![Case1](Images/CaseCableManaged1.jpeg)
 ![Case2](Images/CaseCableManaged2.jpeg)
 
-
+### Benchmarks
+![Benchmarks](Images/Benchmarks.png)
 
 ## What Works
 * iMessage
