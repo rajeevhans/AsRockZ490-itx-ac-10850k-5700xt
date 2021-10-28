@@ -1,5 +1,5 @@
 
-Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Open Core 0.7.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.4)
+Hackintosh on ASRock Z490M-ITX-ac i9-10850K AMD Radeon 6900XT  based on [Open Core 0.7.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.4)
 
 ## Hardware config
 
