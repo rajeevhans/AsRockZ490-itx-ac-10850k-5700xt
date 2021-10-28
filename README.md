@@ -19,6 +19,7 @@ Hackintosh on ASRock Z490M-ITX-ac i9-10850K Gigabyte Radeon 5700XT based on [Ope
 ## Images
 
 ![About my Mac](Images/AboutMyMac.png)
+![New GPU](Images/6900XT-GPU.png)
 ![Standard case shot](Images/SM570case.JPG)
 ![USB Port mapping](Images/AsRockZ490USBports.png)
 ![Virtual SMMC and iStat Menus finally showing Fans](Images/VirtualSMCistatMenus.png)
